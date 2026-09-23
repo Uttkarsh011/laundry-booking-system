@@ -6,7 +6,7 @@ A modern, responsive, and interactive front-end web application built for a prem
 
 ## 🚀 Live Demo
 
-- **Deployed on Netlify**: [View Live Demo](https://your-site-name.netlify.app) *(Replace with your Netlify URL)*
+- **Deployed on Vercel**: https://laundry-booking-system-nu.vercel.app/ *
 
 ---
 
